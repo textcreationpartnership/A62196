@@ -1,0 +1,957 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A satyr against painting in Burlesque verse: submitted to the judicious. By an eminent hand.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1697</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 24 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A62196</idno>
+            <idno type="STC">Wing S711</idno>
+            <idno type="STC">ESTC R219906</idno>
+            <idno type="EEBO-CITATION">99831353</idno>
+            <idno type="PROQUEST">99831353</idno>
+            <idno type="VID">35816</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A62196)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 35816)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2042:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A satyr against painting in Burlesque verse: submitted to the judicious. By an eminent hand.</title>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Abel Roper at the Black-Boy over-against St. Dunstan's Church in Fleetstreet,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1697]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Publication date from Wing.</note>
+                  <note>In verse.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:35816:1"/>
+            <p>A SATYR AGAINST PAINTING; IN Burleſque Verſe: Submitted to the JUDICIOUS.</p>
+            <p>BY An Eminent Hand.</p>
+            <q>
+               <l>—ridentem dic<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e Verum</l>
+               <l>Quid Vetat? —<bibl>
+                     <hi>Horace.</hi>
+                  </bibl>
+               </l>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Abel Roper</hi> at the <hi>Black-Boy</hi> over-againſt St. <hi>Dunſtan</hi>'s Church in <hi>Fleetſtreet.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb n="2" facs="tcp:35816:2"/>
+            <head>A Satyr againſt Painting.</head>
+            <lg>
+               <l>BY <hi>Shadowing Art,</hi> (that She-<hi>Impoſtor</hi>)</l>
+               <l>Highly provok'd; we thus accoſt her.</l>
+               <l>Deceitful <hi>Face!</hi> bewitching <hi>Air!</hi>
+               </l>
+               <l>Whoſe ſweeteſt <hi>Features</hi> moſt enſnare.</l>
+               <l>Thou driv'ſt a ſubtil cheating <hi>Trade,</hi>
+               </l>
+               <l>By Union of thy <hi>Light</hi> and <hi>Shade.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Foul Fiend i'th'ſhape of <hi>Angel</hi> Bright;</l>
+               <l>Meer <hi>Phantom</hi> thou, and yet no <hi>Spright;</hi>
+               </l>
+               <l>Appearing only in the <hi>Light.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>To teach who often do'ſt pretend;</l>
+               <l>When to delude's thy chiefeſt end.</l>
+               <l>Thou gain'ſt our <hi>Gold,</hi> we nothing get</l>
+               <l>From thee, but what is <hi>Counterfeit;</hi>
+               </l>
+               <l>
+                  <hi>Banquets</hi> of <hi>Fruit,</hi> and<note n="*" place="margin">Cornucopia.</note> 
+                  <hi>Horns</hi> of <hi>Plenty;</hi>
+               </l>
+               <l>Our Eyes well fed, but Stomachs empty.</l>
+               <l>Or where a <hi>Portrait</hi> you preſent,</l>
+               <l>'Tis ſurely with a bad Intent:</l>
+               <l>That by your <hi>Drawings</hi> and your <hi>Sketches,</hi>
+               </l>
+               <l>You may abuſe ſome ſimple Wretches,</l>
+               <l>Who for a <hi>Line</hi> drawn by <hi>Apelles,</hi>
+               </l>
+               <l>Won't ſtick to rob their Backs and Bellies;</l>
+               <l>And for a <hi>Touch</hi> of <hi>Raphael</hi>'s Hand,</l>
+               <l>Will frankly give both Houſe and Land.</l>
+               <l>O may it never be your Lot,</l>
+               <l>To be <hi>encircl'd</hi> by <hi>Giott!</hi>
+               </l>
+               <l>Minds thus enchanted are unſound, ho!</l>
+               <l>By always doting on a round<note n="*" place="margin">Exactneſs and Perfection, as that of <hi>Giot<g ref="char:EOLhyphen"/>to</hi>'s Circle made without help of a Com<g ref="char:EOLhyphen"/>paſs.</note> O.</l>
+               <l>If ye are caught by <hi>Buonaroti,</hi>
+               </l>
+               <l>His Stout and Swelling <hi>Vein</hi> will bloat ye.</l>
+               <l>If the <hi>Brisk</hi> Colouring of <hi>Titian</hi>
+               </l>
+               <l>Charm ye, ye're gone too (with ſubmiſſion.)</l>
+            </lg>
+            <lg>
+               <l>If ye're in love with <hi>Tint'ret</hi>'s Fury,</l>
+               <l>Ye'll be ſo hot brain'd (I aſſure ye)</l>
+               <l>That nought but Hellebore can cure ye.</l>
+            </lg>
+            <lg>
+               <l>If <hi>Sarto</hi>'s <hi>Delicacy</hi> ſeize ye;</l>
+               <l>After that nothing elſe will pleaſe ye.</l>
+               <l>
+                  <pb n="3" facs="tcp:35816:2"/>There's Faſcination in each <hi>Piece,</hi>
+               </l>
+               <l>Whether from <hi>Italy,</hi> or <hi>Greece:</hi>
+               </l>
+               <l>The <hi>Softneſs, Sweetneſs,</hi> and <hi>Facility,</hi>
+               </l>
+               <l>
+                  <hi>Grandeur, Decorum,</hi> and <hi>Ability,</hi>
+               </l>
+               <l>
+                  <hi>Beauty, Elegancy, Brightneſs,</hi>
+               </l>
+               <l>
+                  <hi>Freeneſs, Airyneſs,</hi> and <hi>Lightneſs,</hi>
+               </l>
+               <l>
+                  <hi>Motion, Spirit,</hi> and <hi>Vivacity,</hi>
+               </l>
+               <l>Take ev'ry Fancy and Capacity:</l>
+            </lg>
+            <lg>
+               <l>Th' <hi>Invention, Order, Symmetry,</hi>
+               </l>
+               <l>
+                  <hi>Force, Short'ning,</hi> and <hi>Succeſs</hi> agree,</l>
+               <l>To charm our Curioſity:</l>
+            </lg>
+            <lg>
+               <l>To Wound and Captivate the Heart,</l>
+               <l>Each <hi>Artiſt's</hi> Pencil proves a <hi>Dart;</hi>
+               </l>
+               <l>And makes us oft, as moſt Men do know,</l>
+               <l>Embrace a <hi>Cloud</hi> inſtead of <hi>Juno.</hi>
+               </l>
+               <l>In <hi>Landſkips</hi> there's nor <hi>Buſh</hi> nor <hi>Brake</hi>
+               </l>
+               <l>That's Fair, but what conceals a Snake.</l>
+               <l>And none but who has Heart of Oak,</l>
+               <l>Can ſtand againſt a <hi>Maſter-Stroak.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>To what end's this Impertinence?</l>
+               <l>Ye make <hi>Dumb Poetry</hi> commence,</l>
+               <l>A Speaker in its own defence.</l>
+            </lg>
+            <lg>
+               <l>Is<hi>'t fit to rail 'gainſt handſom Faces,</hi>
+               </l>
+               <l>
+                  <hi>Becauſe ye can't reſiſt their Graces?</hi>
+               </l>
+               <l>
+                  <hi>To damn a ſweet and harmleſs Pleaſure,</hi>
+               </l>
+               <l>
+                  <hi>Becauſe ye love it out of meaſure?</hi>
+               </l>
+               <l>
+                  <hi>In me, perhaps, ye'll find ſome Good,</hi>
+               </l>
+               <l>
+                  <hi>When that I'm better underſtood.</hi>
+               </l>
+               <l>
+                  <hi>I at my Will and Pleaſure can</hi>
+               </l>
+               <l>
+                  <hi>Make a</hi> Protuberance <hi>of a</hi> Plan.</l>
+               <l>
+                  <hi>'Tis I, in 'midſt of</hi> Froſt <hi>and</hi> Snows,</l>
+               <l>
+                  <hi>The Verdure of the</hi> Spring <hi>expoſe;</hi>
+               </l>
+               <l>
+                  <hi>And tho' from hence it very far is,</hi>
+               </l>
+               <l>
+                  <hi>I can in</hi> London <hi>ſhew ye</hi> Paris;</l>
+               <l>
+                  <hi>Nay, when as Calm as Calm can be,</hi>
+               </l>
+               <l>
+                  <hi>Can ſhew a dreadful</hi> Storm <hi>at</hi> Sea.</l>
+               <l>
+                  <hi>Shew ancient</hi> Heroes <hi>long ſince rotten,</hi>
+               </l>
+               <l>
+                  <hi>That they may never be forgotten.</hi>
+               </l>
+               <l>
+                  <hi>Can make what's</hi> paſt, <hi>as if 'twere</hi> preſent;</l>
+               <l>
+                  <hi>What's very</hi> old, <hi>as very</hi> recent.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Of Souls not only ſhew the Caſe,</hi>
+               </l>
+               <l>
+                  <hi>But can the very Mind Expreſs,</hi>
+               </l>
+               <l>
+                  <hi>Without a Hieroglyphick Dreſs.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <pb n="4" facs="tcp:35816:3"/>
+                  <hi>A Wiſe Man I can make appear,</hi>
+               </l>
+               <l>
+                  <hi>Tho Beardleſs, a Philoſopher.</hi>
+               </l>
+               <l>
+                  <hi>Could tell ye, (if I once were fir'd)</hi>
+               </l>
+               <l>
+                  <hi>I came from</hi> Heav'n, <hi>and am inſpir'd.</hi>
+               </l>
+               <l>
+                  <hi>To me alone's aſcrib'd the</hi> Glory,</l>
+               <l>
+                  <hi>That I exceed the</hi> force <hi>of</hi> Story.</l>
+               <l>
+                  <hi>What by feint</hi> Hear-ſay <hi>That does ſhew,</hi>
+               </l>
+               <l>
+                  <hi>I repreſent unto your</hi> View.</l>
+               <l>
+                  <hi>And where the Art of</hi> Sculpture <hi>fails,</hi>
+               </l>
+               <l>
+                  <hi>My noble Faculty p<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>evails.</hi>
+               </l>
+               <l>
+                  <hi>Carvings ape me, where they are</hi> tender,</l>
+               <l>
+                  <hi>But cannot Copy</hi> Light <hi>and</hi> Splendor.</l>
+               <l>
+                  <hi>No</hi> King <hi>a</hi> Conſort <hi>ſeeks from far,</hi>
+               </l>
+               <l>
+                  <hi>But makes me his</hi> Ambaſſador.</l>
+            </lg>
+            <lg>
+               <l>Altho' you bear your Head ſo high,</l>
+               <l>As if you meant to reach the Skye;</l>
+               <l>Yet we your <hi>Origine</hi> can diſplay,</l>
+               <l>And ſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ew you ſprung from <hi>Cole</hi> and <hi>Clay:</hi>
+               </l>
+               <l>
+                  <hi>Scra<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ling</hi> and <hi>Dawbing</hi> you begat,</l>
+               <l>Of t<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eſe you are the ſorry <hi>Brat.</hi>
+               </l>
+               <l>As <hi>D<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>wbing</hi> 'gat, <hi>Dawbing</hi> ſupports you,</l>
+               <l>They ſooth and flatter you, who court you;</l>
+               <l>And of a Paltry Thing (which odd is)</l>
+               <l>Would make you think your ſelf a <hi>Goddeſs.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>We grant you Pretty, yet art Vicious,</l>
+               <l>Vain Impudent, and Meretricious;</l>
+               <l>An <hi>over-glazing Superficies.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>A <hi>Specious</hi> Treaſure you ſet forth,</l>
+               <l>But have not any real Worth.</l>
+               <l>Were all your Jewels <hi>Oriental,</hi>
+               </l>
+               <l>You might enrich one who had ſpent all;</l>
+               <l>And be no longer counted <hi>Traſh,</hi>
+               </l>
+               <l>But be at <hi>Par</hi> with <hi>Plate</hi> and <hi>Caſh.</hi>
+               </l>
+               <l>Might pierce a Man unto the Quick,</l>
+               <l>Did you not over-<hi>patch</hi> and <hi>lick.</hi>
+               </l>
+               <l>But now thy <hi>Artifice</hi> is ſeen,</l>
+               <l>Now <hi>thou</hi> haſt got a graceleſs <hi>Mien.</hi>
+               </l>
+               <l>Thy <hi>Primitive Simplicity</hi>
+               </l>
+               <l>Hath utterly forſaken thee.</l>
+               <l>Thou ſtrutt'ſt about in <hi>gawdy</hi> Dreſſes,</l>
+               <l>
+                  <hi>Foplings</hi> to lure to thy Careſſes;</l>
+               <l>But all thy <hi>Pomp</hi> and <hi>Pageantry,</hi>
+               </l>
+               <l>The Wiſer ſort of Men defie;</l>
+               <l>
+                  <pb n="5" facs="tcp:35816:3"/>They know thy <hi>Glories</hi> quickly <hi>tarniſh,</hi>
+               </l>
+               <l>Of <hi>fading</hi> Colours made, and <hi>Varniſh:</hi>
+               </l>
+               <l>Yet thou do'ſt keep thy ſelf in Faſhion,</l>
+               <l>And ha'ſt but too much Veneration.</l>
+               <l>Pity it is a <hi>Jilt</hi> ſo great,</l>
+               <l>Should ever ride in <hi>Coach</hi> of <hi>State;</hi>
+               </l>
+               <l>And in a <hi>Palace</hi> dwell, or <hi>Church,</hi>
+               </l>
+               <l>Who leaves her Followers in the lurch.</l>
+            </lg>
+            <lg>
+               <l>On <hi>Sign-Poſt</hi> in the open Air</l>
+               <l>Hang her, in form of <hi>Bull,</hi> or <hi>Bear,</hi>
+               </l>
+               <l>Of ſome good uſe ſhe may be there.</l>
+            </lg>
+            <lg>
+               <l>But ſee that BRUIN wear a Chain,</l>
+               <l>Leſt (as of old) when it does Rain,</l>
+               <l>The awkward <hi>Brute</hi> go off again.</l>
+            </lg>
+            <lg>
+               <l>Now ſome, who by fair Looks are ſmitten,</l>
+               <l>Tho' by their falſhood, often bitten,</l>
+               <l>Will cry, <hi>This Cenſure is too ſmart;</hi>
+               </l>
+               <l>
+                  <hi>Painting's a Brave and Liberal Art.</hi>
+               </l>
+               <l>
+                  <hi>Liberal!</hi> Pray let themſelves be Judges,</l>
+               <l>Are not its chief <hi>Diſciples</hi> Drudges?</l>
+               <l>Their Bodies much impair'd by Toils,</l>
+               <l>And ſtinking Scent of Pois'nous <hi>Oyls:</hi>
+               </l>
+               <l>Their Minds oft over-charg'd with Care,</l>
+               <l>About the drawing of a <hi>Hair;</hi>
+               </l>
+               <l>And value more a <hi>Hand</hi> that's ready,</l>
+               <l>Than any <hi>Head,</hi> tho' Learn'd and Steady.</l>
+               <l>Others there are who ne'r were <hi>Scholars,</hi>
+               </l>
+               <l>Nor can pretend to Skill in <hi>Colours,</hi>
+               </l>
+               <l>Yet are <hi>per ſaltum Maſters</hi> grown,</l>
+               <l>And with their <hi>Works</hi> defile the <hi>Town:</hi>
+               </l>
+               <l>
+                  <hi>Dawbings,</hi> which they by Dozens vend;</l>
+               <l>
+                  <hi>Dawbings,</hi> of which there is no end.</l>
+               <l>Of theſe <hi>Baſe-brothers</hi> of the <hi>Bruſh,</hi>
+               </l>
+               <l>A <hi>Dozen</hi> are not worth a Ruſh.</l>
+               <l>A <hi>Pencil</hi> does not (as you know well)</l>
+               <l>So well become them, as would <hi>Trowel.</hi>
+               </l>
+               <l>Such do the very Art <hi>beſpatter,</hi>
+               </l>
+               <l>And Wound it more than ſharpeſt <hi>Satyr.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>As Mean, as Cheap it does appear,</l>
+               <l>Vending its Works by <hi>Auctionier:</hi>
+               </l>
+               <l>Who cries, <hi>This</hi> Head <hi>is by</hi> Vandyke;</l>
+               <l>
+                  <hi>Here is a Battle</hi> (Sirs) <hi>by</hi> Wyke.</l>
+               <l>
+                  <pb n="6" facs="tcp:35816:4"/>
+                  <hi>This Piece,</hi> (pray ſee't) <hi>'Tis ſomewhat ſmall,</hi>
+               </l>
+               <l>
+                  <hi>But yet a right</hi> Original.</l>
+               <l>
+                  <hi>Here's a choice</hi> Venus <hi>drawn on Board;</hi>
+               </l>
+               <l>
+                  <hi>Bid up, — 'tis</hi> fine <hi>upon my Word.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>This Hiſtory's by</hi> Rubens <hi>done,</hi>
+               </l>
+               <l>(Of <hi>Ruben</hi>'s Works, tho he has none)</l>
+               <l>
+                  <hi>Twenty pound; Once—Twice—Thrice</hi>—'Tis gone.)</l>
+            </lg>
+            <lg>
+               <l>A <hi>Modern Piece</hi> ſometimes is ſold,</l>
+               <l>When <hi>Smoak'd</hi> and <hi>Mellow'd,</hi> for an <hi>Old.</hi>
+               </l>
+               <l>Beſides, 't has <hi>Setters</hi> to entice,</l>
+               <l>And if need be, to raiſe the <hi>Price.</hi>
+               </l>
+               <l>Thus, whil'ſt it does each <hi>Piece</hi> expoſe,</l>
+               <l>It leads its <hi>Bayers</hi> by the Noſe.</l>
+               <l>This Practice ſure is not the part</l>
+               <l>Of <hi>Lib'ral,</hi> but of <hi>Vulgar Art.</hi>
+               </l>
+               <l>Yet to avoid the Name <hi>ſevere,</hi>
+               </l>
+               <l>What can be farther ſaid let's hear.</l>
+            </lg>
+            <lg>
+               <l>'Tis a great Curioſity:</l>
+               <l>
+                  <hi>So is a Spider's Web, you ſee.</hi>
+               </l>
+               <l>It ſpeaks all Languages, all Tongues:</l>
+               <l>
+                  <hi>The more diffuſive are its Wrongs.</hi>
+               </l>
+               <l>It does amuſe and entertain—</l>
+               <l>
+                  <hi>The Idle, Wanton, Proud, and Vain.</hi>
+               </l>
+               <l>Strange Novelties it oft produces;</l>
+               <l>Harpyes and Centaures! <hi>Strange Abuſes!</hi>
+               </l>
+               <l>A Mine it is moſt richly Vein'd:</l>
+               <l>
+                  <hi>'Twas ſo, but now 'tis almoſt drein'd.</hi>
+               </l>
+               <l>It can deceive a Skilful Eye:</l>
+               <l>
+                  <hi>With a poor</hi>
+                  <note n="*" place="margin">
+                     <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </note> 
+                  <hi>Curtain or a</hi>
+                  <note n="†" place="margin">
+                     <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Roman<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</note> 
+                  <hi>Flye.</hi>
+               </l>
+               <l>But not to give our ſelves more trouble,</l>
+               <l>About an empty Painted Bubble,</l>
+               <l>About a thing that to the brim</l>
+               <l>Abounds in <hi>Magottry</hi> and <hi>Whim;</hi>
+               </l>
+               <l>The Dream of Men that are awake,</l>
+               <l>A <hi>Libertine,</hi> a very <hi>Rake;</hi>
+               </l>
+               <l>A <hi>Prodigy</hi> of Oſtentation,</l>
+               <l>Nay, th' arrant'ſt <hi>Proſtitute</hi> i'th Nation.</l>
+               <l>And what's enough to ſtifle Lenity,</l>
+               <l>A great Supporter of <hi>Obſcenity.</hi>
+               </l>
+               <l>One, who to mend Defects in <hi>Nature</hi>
+               </l>
+               <l>Pretends, but ſtill deforms the <hi>Creature.</hi>
+               </l>
+               <l>Pretends to a diſcerning <hi>Pallat,</hi>
+               </l>
+               <l>Yet only feeds on <hi>Sauce</hi> and <hi>Sallet.</hi>
+               </l>
+               <l>
+                  <pb n="7" facs="tcp:35816:4"/>Does ſo admire a <hi>Picture</hi> fair,</l>
+               <l>As if nought with it could compare;</l>
+               <l>When <hi>Well Pen'd Works</hi> of thoſe that Write</l>
+               <l>Are <hi>Paintings</hi> too, in <hi>Black</hi> and <hi>White;</hi>
+               </l>
+               <l>And full as long they will endure;</l>
+               <l>As any other <hi>Clare-Obſcure.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Another fault 't has got of late,</l>
+               <l>It <hi>Gouty</hi> things ſtill reckons <hi>great:</hi>
+               </l>
+               <l>Thinks That the beſt and nobleſt <hi>Figure,</hi>
+               </l>
+               <l>The <hi>larger</hi> always is and <hi>bigger.</hi>
+               </l>
+               <l>But this Miſtake we little heed,</l>
+               <l>Therefore to greater <hi>Faults</hi> proceed.</l>
+            </lg>
+            <lg>
+               <l>Its <hi>Heads</hi> and <hi>Faces</hi> need Correction,</l>
+               <l>And muſt not ſcape our juſt Reflection:</l>
+               <l>After the uſe of fine <hi>Carnations,</hi>
+               </l>
+               <l>And after three long <hi>Operations,</hi>
+               </l>
+               <l>The <hi>Life's</hi> oft loſt, or ſo diminiſh'd,</l>
+               <l>You'd ſwear the <hi>Piece</hi> were ſcarce half <hi>finiſh'd;</hi>
+               </l>
+               <l>And ſo unlike the Nat'ral, <hi>Phyz</hi> 'tis,</l>
+               <l>It can't be term'd a true <hi>Effigies:</hi>
+               </l>
+               <l>Yet what it wants o'th Myſtery,</l>
+               <l>With <hi>Trick</hi> and <hi>Fucus</hi> does ſupply.</l>
+               <l>The <hi>Sad,</hi> the <hi>Sowre,</hi> and <hi>Crabbed Feature;</hi>
+               </l>
+               <l>It nicely <hi>touches,</hi> and makes <hi>ſweeter.</hi>
+               </l>
+               <l>The <hi>Matron</hi> of Complexion <hi>torrid</hi>
+               </l>
+               <l>Is likewiſe flatter'd, and made <hi>florid.</hi>
+               </l>
+               <l>What tho' the <hi>Sitter</hi> be no <hi>Beau,</hi>
+               </l>
+               <l>Our <hi>Face-mender</hi> will have him ſo;</l>
+               <l>And make a Scurvy <hi>Head</hi> look big,</l>
+               <l>In <hi>Steenkirk,</hi> and in <hi>Flaunting Wig.</hi>
+               </l>
+               <l>If Beautiful above what's common,</l>
+               <l>It will transform him to a <hi>Woman;</hi>
+               </l>
+               <l>And out of great Civility,</l>
+               <l>Rob him of his <hi>Virility;</hi>
+               </l>
+               <l>Knowing no Beauty but the <hi>Fine,</hi>
+               </l>
+               <l>None that is <hi>Strong</hi> and <hi>Maſculine.</hi>
+               </l>
+               <l>Hence 'tis each <hi>Face</hi> is made too <hi>light,</hi>
+               </l>
+               <l>And an huge Waſte oft drawn in <hi>White:</hi>
+               </l>
+               <l>No <hi>Black</hi> nor <hi>Darkneſs</hi> muſt appear,</l>
+               <l>Tho't be to <hi>Shaddow Grief</hi> or <hi>Fear;</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <pb n="8" facs="tcp:35816:5"/>But in the <hi>Hair, Eyes, Lips,</hi> and <hi>Nails</hi>
+               </l>
+               <l>
+                  <hi>Reſplendent</hi> Parts, where <hi>White</hi> prevails,</l>
+               <l>Of ſuch Profuſeneſs <hi>there</hi> it fails.</l>
+            </lg>
+            <lg>
+               <l>If here it fails, we can't expect,</l>
+               <l>In <hi>Motion,</hi> it ſhould be <hi>Correct.</hi>
+               </l>
+               <l>
+                  <hi>Motion</hi>'s the <hi>quick</hi> and <hi>active</hi> part,</l>
+               <l>The <hi>Soul</hi> and <hi>Spirit</hi> of the <hi>Art;</hi>
+               </l>
+               <l>It has the <hi>force</hi> of <hi>Sympathy,</hi>
+               </l>
+               <l>From which but very few are free.</l>
+               <l>Does th' <hi>Object</hi> Laugh? it moves to Gladneſs,</l>
+               <l>Or does it Mourn, it cauſes Sadneſs.</l>
+               <l>When <hi>Modern</hi> Works do (by the by)</l>
+               <l>
+                  <hi>Move</hi> and <hi>affect</hi> quite contrary.</l>
+               <l>'Twould put a Man into a Flame,</l>
+               <l>To ſee its <hi>Figures</hi> look ſo <hi>tame,</hi>
+               </l>
+               <l>To ſee it give to <hi>ſubtilty,</hi>
+               </l>
+               <l>The <hi>Hog's</hi> moſt <hi>dull</hi> and <hi>ſleepy</hi> Eye.</l>
+               <l>If its Intention, or its will is,</l>
+               <l>To Paint a <hi>Nero</hi> or <hi>Achilles,</hi>
+               </l>
+               <l>'Tis odds but that it will ſet out</l>
+               <l>The <hi>Hero</hi> Cruel, <hi>Tyrant</hi> Stout.</l>
+               <l>Tho this looks ſomewhat like Diſgrace,</l>
+               <l>It will not mend its wonted pace,</l>
+               <l>But jogs on in the common Road,</l>
+               <l>With <hi>Trappings,</hi> and but little Load:</l>
+               <l>'Thas no regard to <hi>Life</hi> and <hi>Paſſion,</hi>
+               </l>
+               <l>A <hi>Motiſt</hi> now is out of faſhion;</l>
+               <l>Or acts but in a low degree,</l>
+               <l>In <hi>Boor-Pieces</hi> or <hi>Drollery.</hi>
+               </l>
+               <l>In <hi>Shadowing</hi> of <hi>Nudities,</hi>
+               </l>
+               <l>(Which often are but <hi>Crudities</hi>)</l>
+               <l>Affects a <hi>Manner</hi> of its own,</l>
+               <l>To <hi>Nature</hi> ſuch as ſeldom known;</l>
+               <l>An <hi>Over-ruddy, Black</hi> and <hi>Grey,</hi>
+               </l>
+               <l>And this is call'd the <hi>Italian</hi> Way:</l>
+               <l>An ancient Fault, yet we'll not ſpare you,</l>
+               <l>Tho 'tis <hi>cum Patribus errare.</hi>
+               </l>
+               <l>If that it ſhuns one evil Courſe,</l>
+               <l>Runs commonly into a worſe.</l>
+               <l>If it from <hi>Coldneſs</hi> does retire,</l>
+               <l>Is apt to <hi>Blaze</hi> with too much <hi>Fire.</hi>
+               </l>
+               <l>When nauſeous <hi>Hardneſs</hi> it declines,</l>
+               <l>With <hi>Faintneſs</hi> Languiſhes and Pines.</l>
+               <l>
+                  <pb n="9" facs="tcp:35816:5"/>When it <hi>Correctneſs</hi> does intend,</l>
+               <l>Of <hi>Emendation</hi> knows no end.</l>
+               <l>Thus over-careful how to pleaſe,</l>
+               <l>Does err as did <hi>Protogenes.</hi>
+               </l>
+               <l>'Tween <hi>Comb</hi> and <hi>Glaſs</hi> much time does waſt,</l>
+               <l>And knows not when tis fully dreſt;</l>
+               <l>Or elſe regardleſs is of <hi>Fame,</hi>
+               </l>
+               <l>And maketh <hi>Riches</hi> its chief <hi>aim:</hi>
+               </l>
+               <l>An <hi>Aequipoize</hi> or golden <hi>Mean</hi>
+               </l>
+               <l>Is difficult, and rarely ſeen.</l>
+            </lg>
+            <lg>
+               <l>As to its <hi>Dreſs</hi> and <hi>Garniture,</hi>
+               </l>
+               <l>Who can its <hi>Luxury</hi> endure?</l>
+               <l>Have you not a fair <hi>Lady</hi> ſeen,</l>
+               <l>Bedeck'd with Pearl, like any <hi>Queen;</hi>
+               </l>
+               <l>Yet utterly devoid of <hi>Grace,</hi>
+               </l>
+               <l>Becauſe the <hi>Gems</hi> out-ſhin'd her <hi>Face?</hi>
+               </l>
+               <l>So now its <hi>By-works</hi> do excel,</l>
+               <l>And much ecclipſe the <hi>Principal.</hi>
+               </l>
+               <l>Beſides, 'tis of an <hi>abject Mind,</hi>
+               </l>
+               <l>To mean and narrow thoughts confin'd,</l>
+               <l>That never ſtrives for to advance,</l>
+               <l>And be the foremoſt of the <hi>Dance;</hi>
+               </l>
+               <l>But lays aſide all <hi>Aemulation,</hi>
+               </l>
+               <l>Content with ſervile <hi>Imitation;</hi>
+               </l>
+               <l>Like little <hi>Child</hi> afraid of falls,</l>
+               <l>Oft Creeps on Ground, or goes by Walls;</l>
+               <l>Treading as tenderly and nice,</l>
+               <l>As if it walk'd upon the Ice.</l>
+            </lg>
+            <lg>
+               <l>But far more wary 'tis than wiſe,</l>
+               <l>
+                  <hi>If falls, it fears 'twill never riſe,</hi>
+               </l>
+               <l>
+                  <hi>Without contending there's no Prize.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Nay more, ſome practiſe but a part,</l>
+               <l>And will not ſearch the whole o'th Art.</l>
+               <l>They do conſume their precious hours,</l>
+               <l>In Painting barely <hi>Fruits</hi> or <hi>Flowers.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Sea-Pieces, Still-Life, Fiſh,</hi> or <hi>Fowl;</hi>
+               </l>
+               <l>Shall Men of ſuch degen'rate Soul</l>
+               <l>Be <hi>Painters</hi> deem'd, without <hi>controul?</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>No; only he who's apt for all,</l>
+               <l>Muſt have a <hi>Talent general.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>No more then of this <hi>groveling Practice,</hi>
+               </l>
+               <l>But ſomewhat, which no leſs <hi>defect is;</hi>
+               </l>
+               <l>
+                  <pb n="10" facs="tcp:35816:6"/>On <hi>Colouring</hi> next we'll caſt an Eye,</l>
+               <l>And many Artleſs <hi>Teints</hi> deſcry.</l>
+               <l>What are its ſeveral kinds of <hi>Pigments,</hi>
+               </l>
+               <l>With which it does expreſs its <hi>Figments?</hi>
+               </l>
+               <l>
+                  <hi>The Lilly, Cowſſip, Saffron, Violet</hi>
+               </l>
+               <l>
+                  <hi>And</hi>
+                  <note n="*" place="margin">Damask.</note> 
+                  <hi>Roſe</hi> (of Blue that has an Eyelet)</l>
+               <l>
+                  <hi>Aſh, Azure, Purple, Columbine,</hi>
+               </l>
+               <l>
+                  <hi>Green, Crimſon, Murry, Gridelin,</hi>
+               </l>
+               <l>
+                  <hi>The Strawberry, the Brown, the Bay,</hi>
+               </l>
+               <l>
+                  <hi>Dun, Sorrel, Cheſnut, and the Grey;</hi>
+               </l>
+               <l>
+                  <hi>The Kite Colour, and</hi>
+                  <note n="*" place="margin">Col<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>r mortui foli<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</note> 
+                  <hi>Philamot,</hi>
+               </l>
+               <l>
+                  <hi>The Tawny; Minim,</hi> and what not.</l>
+               <l>
+                  <hi>Mixtures</hi> of late ſo ill compounded,</l>
+               <l>That they are rather quite confounded.</l>
+               <l>Yet their <hi>Ingredients</hi> are but few,</l>
+               <l>
+                  <hi>Black, White, Red, Yellow</hi> and the <hi>Blue:</hi>
+               </l>
+               <l>Of which, ſome <hi>burnt</hi> are, ſome are raw,</l>
+               <l>Some coſtly, ſome not worth a <hi>Straw;</hi>
+               </l>
+               <l>Some <hi>coming forward,</hi> ſome <hi>retiring,</hi>
+               </l>
+               <l>Some <hi>heavy,</hi> ſome <hi>light</hi> and <hi>aſpiring;</hi>
+               </l>
+               <l>Some Lovers of Society,</l>
+               <l>Some will not Mix wi' Company,</l>
+               <l>Some <hi>tranſparent,</hi> ſome <hi>Opaque,</hi>
+               </l>
+               <l>With which it does great pother make.</l>
+               <l>Some of them bad, and ſome are good,</l>
+               <l>And all as thoroughly underſtood,</l>
+               <l>As <hi>Tranſmutation</hi> is of <hi>Metals;</hi>
+               </l>
+               <l>Or turning into <hi>Gold, Braſs Kettles.</hi>
+               </l>
+               <l>There are but few we can exalt,</l>
+               <l>Moſt being ſpoil'd by <hi>Greaſe</hi> or <hi>Salt,</hi>
+               </l>
+               <l>Or by foul <hi>Pencils</hi> gather Soil,</l>
+               <l>Or <hi>Tawny</hi> made with too much <hi>Oyl.</hi>
+               </l>
+               <l>They very rarely do appear,</l>
+               <l>
+                  <hi>Lively, Bright, Beautiful</hi> and <hi>Clear,</hi>
+               </l>
+               <l>Except in <hi>Inſects, Gems, Shells, Flowers;</hi>
+               </l>
+               <l>In <hi>Natures Paintings,</hi> not in <hi>Ours;</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>They at the beſt unequal are,</l>
+               <l>The following therefore moſt prefer,</l>
+               <l>But in the uſe of them do err.</l>
+            </lg>
+            <lg>
+               <l>Some do affect the <hi>Tyrian Dye,</hi>
+               </l>
+               <l>Which they thro' fondneſs miſ-apply;</l>
+               <l>Cloathing the <hi>Villain</hi> and the <hi>Varlet,</hi>
+               </l>
+               <l>With <hi>Royal Purple, Richeſt Scarlet.</hi>
+               </l>
+               <l>
+                  <pb n="11" facs="tcp:35816:6"/>Others are fond of, and go ſtill on,</l>
+               <l>To uſe in <hi>Faces</hi> much <hi>Vermilion<g ref="char:punc">▪</g>
+                  </hi>
+               </l>
+               <l>Their Works abound with this fierce <hi>Teint,</hi>
+               </l>
+               <l>Which makes them look too much like PAINT:</l>
+               <l>
+                  <hi>
+                     <g ref="char:V">Ʋ</g>ltramarine</hi> with ſome prevails,</l>
+               <l>This is true <hi>Blue</hi> which never fails;</l>
+               <l>Yet many are with this too bold,</l>
+               <l>And make their <hi>Fleſh-colour</hi> too <hi>cold.</hi>
+               </l>
+               <l>Taking the <hi>Art</hi> (ſuch is their blindneſs)</l>
+               <l>Chiefly to lie in <hi>Colour's</hi> fineneſs:</l>
+               <l>When as in truth it moſt doth lye,</l>
+               <l>In fineſt <hi>Skill</hi> and <hi>Manag'ry.</hi>
+               </l>
+               <l>But willing now to make an end,</l>
+               <l>To <hi>Short-hand Painting</hi> we deſcend.</l>
+            </lg>
+            <lg>
+               <l>Its <hi>Migniature</hi> is over-<hi>fine,</hi>
+               </l>
+               <l>Too <hi>Nice, Petite,</hi> and <hi>Feminine.</hi>
+               </l>
+               <l>Is not Diſcernable at Diſtance,</l>
+               <l>Without the Eye have ſome Aſſiſtance.</l>
+               <l>The <hi>Women</hi> therefore do engroſs it,</l>
+               <l>As <hi>Toy</hi> moſt fit for Lady's <hi>Cloſet:</hi>
+               </l>
+               <l>For <hi>Men</hi>'s uſe only ſerves to adorn,</l>
+               <l>
+                  <hi>Snuff</hi> and <hi>Tobacco-Box</hi> of <hi>Horn.</hi>
+               </l>
+               <l>But t' <hi>Olivar</hi>'s or <hi>Cooper</hi>'s Hand,</l>
+               <l>We muſt not give ſo foul a Brand.</l>
+               <l>Therefore to th' old we'll add not new ills,</l>
+               <l>Owning ſuch <hi>Works,</hi> not <hi>Toyes</hi> but <hi>Jewels.</hi>
+               </l>
+               <l>Like <hi>Jewels</hi> very rich and fair,</l>
+               <l>But yet exceedingly more rare.</l>
+               <l>Many Faults more we could recite,</l>
+               <l>And ſet it in a clearer <hi>Light.</hi>
+               </l>
+               <l>Could ſhew how dull and blockiſh 'tis,</l>
+               <l>Committing groſs <hi>Abſurdities;</hi>
+               </l>
+               <l>How <hi>Images</hi> impure, or vain,</l>
+               <l>Moſt Sacred Places oft profane:</l>
+               <l>And turn the <hi>Church (Sans Raillerie)</hi>
+               </l>
+               <l>Into a <hi>Picture-Gallerie.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>That as incongruous as this,</l>
+               <l>Is <hi>Angelo</hi>'s fam'd <hi>Judgment-Piece,</hi>
+               </l>
+               <l>Stain'd with Indecent <hi>Nudities;</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>With things Unnat'ral and Unjuſt,</l>
+               <l>Young <hi>Men</hi> and <hi>Women</hi> too <hi>Robuſt;</hi>
+               </l>
+               <l>And ſtretch'd beyond their due <hi>Proportions,</hi>
+               </l>
+               <l>With too extravagant <hi>Contortions.</hi>
+               </l>
+               <l>
+                  <pb n="12" facs="tcp:35816:7"/>But there is nothing without failing:</l>
+               <l>Good Caution againſt farther <hi>Railing.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Now, had this <hi>Rage</hi> unfeigned been,</l>
+               <l>Th' effect of <hi>Choler</hi> or of <hi>Spleen,</hi>
+               </l>
+               <l>The <hi>Doggr'el Cant</hi> had prov'd more <hi>keen;</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>For <hi>Painting</hi> now we may enroll,</l>
+               <l>In <hi>Pancirollus</hi> Liſt or <hi>Scroll,</hi>
+               </l>
+               <l>Among the loſt Inventions,</l>
+               <l>Of the Sagacious <hi>Ancients.</hi>
+               </l>
+               <l>'Tis Vaniſh'd,— what is left in Sight,</l>
+               <l>Is but the <hi>Shadow</hi> of their <hi>Light.</hi>
+               </l>
+            </lg>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:35816:7"/>
+         </div>
+      </body>
+   </text>
+</TEI>
